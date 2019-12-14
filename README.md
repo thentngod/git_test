@@ -1,0 +1,1 @@
+This is ntngod's first git project!
